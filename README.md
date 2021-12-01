@@ -9,13 +9,13 @@
 
 <a href="https://www.linkedin.com/in/nayara-costa-pinheiro/" alt="linkedin" target="_blank">
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 
 </a>
 
 <a href="https://www.instagram.com/nayaradavantelcosta/" alt="instagram" target="_blank">
 
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 
 </a>
 
@@ -39,7 +39,7 @@
   </span>
 
 <div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NayaradcPinheiro&show_icons=true&theme=jolly);
+ <img src="https://github-readme-stats.vercel.app/api?username=NayaradcPinheiro&show_icons=true&theme=jolly"/>;
 </div>
 
  </div>
