@@ -1,6 +1,6 @@
-<h1 align="center"> Olá! Seja Bem-Vindo!👋</h1>
+<h1 align="center"> Hello, Welcome!👋</h1>
 
-<h2 align="center">Front-end Developer Jr</h2>
+<h2 align="center">Front-end Developer</h2>
 
 <h3 align="center">Tech Lover 💖</h3>
 
